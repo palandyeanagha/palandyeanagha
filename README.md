@@ -1,6 +1,6 @@
 # Hi, I'm Anagha Palandye 👋
 
-**Applied AI Scientist** focused on making LLMs work in the real world, not just on benchmarks.
+**Applied AI Engineer** focused on making LLMs work in the real world, not just on benchmarks.
 
 I am completing my **MS in Data Science at NYU's Center for Data Science** (May 2026), with prior experience building production ML systems at **American Express**, **Commonwealth Bank**, and **Tech Mahindra** across financial services and telecom.
 
